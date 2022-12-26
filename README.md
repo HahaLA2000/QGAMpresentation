@@ -1,0 +1,2 @@
+# QGAMpresentation
+In this presentation, we concluded that QGAM, a gene detection method based on Zero-inflated Negative Binomial GAM, performed well when gene-cell simulations are ideal. However, as data included more outliers, QGAM did not standout to other methods as dispersion increased. However, QGAM was a powerful method as it could completed millions of gene-cell data in less than an hour while others required 5-6 hours and parallel processing.   
